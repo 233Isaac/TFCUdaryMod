@@ -1,0 +1,353 @@
+#zh_CN ## 汉化者= 233Isaac
+#This is the Main language configuration file
+#
+#If you want to color code the text then I recommend you visit http://www.minecraftwiki.net/wiki/Formatting_codes#Color_codes
+#To create the ?symbol which is used for assigning a color to the following text press Alt + 21 on Windows. For other OSes, view the above link.
+#This file needs to be UTF-8 encoded to work with MC 1.7+
+
+key.DebugMode=切换调试模式
+
+tile.empty.name=空的
+item.empty.name=空的
+
+#===========
+#= Devices =
+#===========
+
+item.Alloy Calculator.name=合金计算器
+item.Anodising Vessel.name=电离器
+item.Ceramic Battery.name=陶瓷花瓶电池
+item.Drying Mat.name=干燥垫
+item.Evaporator Pan.name=蒸发盘
+item.Ore Cooker.name=氧化炉
+
+tile.Alloy Calculator.name=合金计算器
+tile.Anodising Vessel.name=电离器
+tile.Drying Mat.name=干燥垫
+tile.Evaporator Pan.name=蒸发盘
+tile.Ore Cooker.name=氧化炉
+tile.TFC Log Pile.name=原木垛
+
+#==========
+#= Fluids =
+#==========
+
+#== Fluid Names ==
+fluid.nitricacid=硝酸
+fluid.sulfuricacid=硫磺酸
+
+#== Bottled Fluids ==
+item.Bottled Brine.name=瓶装卤水
+item.Bottled Limewater.name=瓶装石灰水
+item.Bottled Milk.name=瓶装牛奶
+item.Bottled Nitric Acid.name=瓶装硝酸
+item.Bottled Olive Oil.name=瓶装橄榄油
+item.Bottled Salt Water.name=瓶装盐水
+item.Bottled Sulfuric Acid.name=瓶装硫磺酸
+item.Bottled Tannin.name=瓶装鞣酸
+item.Bottled Vinegar.name=瓶装醋
+item.Bottled Water.name=瓶装水
+
+#== Ceramic Jug Fluids
+item.Jug Milk.name=牛奶壶
+
+#== Steel Bucket Fluids ==
+item.Blue Steel Bucket Nitric Acid.name=蓝钢桶(硝酸)
+item.Blue Steel Bucket Sulfuric Acid.name=蓝钢桶(硫磺酸)
+item.Red Steel Bucket Nitric Acid.name=红钢桶(硝酸)
+item.Red Steel Bucket Sulfuric Acid.name=红钢桶(硫磺酸)
+item.Ceramic Bucket Salt Water.name=耐火陶瓷桶(盐水)
+item.Ceramic Bucket Hot Water.name=耐火陶瓷桶(热水)
+item.Ceramic Bucket Water.name=耐火陶瓷桶(淡水)
+
+#== Wooden Bucket Fluids ==
+item.Beer.name=啤酒
+item.Brine.name=卤水
+item.Cider.name=苹果酒
+item.Corn Whiskey.name=玉米威士忌
+item.Limewater.name=石灰水
+item.Olive Oil.name=橄榄油
+item.Rum.name=朗姆酒
+item.Rye Whiskey.name=黑麦威士忌酒
+item.Sake.name=清酒
+item.Tannin.name=鞣酸
+item.Vodka.name=伏特加
+item.Whiskey.name=威士忌
+
+#=============
+#= Materials =
+#=============
+
+item.Copper Wire.name=铜线
+item.Wrought Iron Buckle.name=锻铁扣子
+item.Ceramic Bucket.name=耐火陶瓷桶
+
+#========
+#= Ores =
+#========
+
+item.Cooked Limonite Small.name=小型氧化褐铁矿
+item.Cooked Limonite Poor.name=贫瘠氧化褐铁矿
+item.Cooked Limonite.name=氧化褐铁矿
+item.Cooked Limonite Rich.name=富集氧化褐铁矿
+item.Nickel Flake.name=片状硅镁镍
+item.Nickel Flake Clump.name=块状硅镁镍
+item.Silver Flake.name=片状银
+item.Silver Flake Clump.name=块状银
+
+#===========
+#= 陶瓷窑=
+#===========
+
+item.Rod Mold.Clay Mold Rod.name=粘土铜棒模具
+item.Rod Mold.Ceramic Mold Rod.name=铜棒模具
+item.Rod Mold.Ceramic Mold Rod Copper.name=铜棒模具(铜)
+
+#==========
+#= Powder =
+#==========
+
+item.Cooked Limonite Powder.name=氧化褐铁矿粉
+
+#===========
+#= Recipes =
+#===========
+
+recipe.AV Nitric Acid.name=硝酸
+recipe.AV Sulfuric Acid.name=硫磺酸
+recipe.EP Salt.name=盐
+recipe.EP Sulfer.name=硫磺
+recipe.EP Saltpeter.name=硝石
+recipe.OC Cooked Limonite (10).name=氧化褐铁矿(10)
+recipe.OC Cooked Limonite (15).name=氧化褐铁矿(15)
+recipe.OC Cooked Limonite (25).name=氧化褐铁矿(25)
+recipe.OC Cooked Limonite (35).name=氧化褐铁矿(35)
+
+#=========
+#= Tools =
+#=========
+
+item.Carbon Rod.name=碳棒
+item.Copper Rod.name=铜棒
+item.Copper Rod Nickel Coated.name=镀镍铜棒
+item.Copper Rod Silver Coated.name=镀银铜棒
+item.Tucker Bag.name=标准动物袋
+item.Tucker Bag Full.name=标准动物袋(满)
+item.Tucker Bag v2.name=加强动物袋
+item.Tucker Bag v2 Full.name=加强动物袋(满)
+
+#=======
+#= GUI =
+#=======
+
+#== Common ==
+gui.capacity=容量
+gui.cooking=氧化中
+gui.count=总数
+gui.damage=使用次数
+gui.drying=干燥中
+gui.idle=空闲
+gui.notavailable=未启用
+gui.processing=处理
+gui.progress=增长
+gui.remaining=剩余次数
+gui.result=产生
+gui.temperature=温度
+
+gui.alloycalculator.calculator=计算器
+gui.alloycalculator.list=列表
+gui.alloycalculator.result=可能产生的合金
+
+#== Plans ==
+gui.plans._buckle=纽扣
+gui.plans._evaporatorpan=蒸发盘
+gui.plans._rod=棒
+gui.plans._wire=电线
+
+#== Devices ==
+gui.Battery.charge=剩余电量
+
+#== Tooltips ==
+gui.ShowMoreInfo=?更多信息... (按住 Ctrl?)
+gui.taste.factor=味道
+
+#== Units of Measure ==
+gui.battery.unit1=mU
+gui.battery.unit1000=U
+gui.barrel.unit1=mB
+gui.barrel.unit1000=B
+gui.decay.unit=%
+gui.food.unit=oz
+gui.nickel.units=硅镁镍单位
+gui.progress.unit=%
+gui.silver.units=银单位
+gui.units=单位
+
+
+#===========
+#= Strings =
+#===========
+string.tuckerbag.bagtodamaged=使用动物袋攻击动物可以抓住这只动物.
+string.tuckerbag.bagversiontolow=动物袋等级不足以抓住这只动物.
+string.tuckerbag.entityleashed=这个动物被牵住了.
+string.tuckerbag.entitynotallowed=这只动物不能被动物袋捕获.
+string.tuckerbag.entitynotregistered=这只动物不能被动物袋捕获.
+string.tuckerbag.entityridden=这只动物正在被骑乘.
+string.tuckerbag.version.1=标准
+string.tuckerbag.version.2=加强
+string.tuckerbag.version.none=无法捕捉
+
+#========
+#= Misc =
+#========
+
+#== Creative Tabs ==
+itemGroup.UdaryArmor=(Udary)|盔甲
+itemGroup.UdaryMaterials=(Udary)|材料
+itemGroup.UdaryMisc=(Udary)|杂项
+itemGroup.UdaryPottery=(Udary)|陶器
+itemGroup.UdaryTools=(Udary)|工具
+itemGroup.UdaryWeapons=(Udary)|武器
+itemGroup.UdaryDevices=(Udary)|设备
+itemGroup.UdaryFoods=(Udary)|食物
+itemGroup.UdaryBuilding=(Udary)|建筑方块
+itemGroup.UdaryDecoration=(Udary)|装饰
+itemGroup.UdaryFluids=(Udary)|流体
+
+
+#=========
+#= WAILA =
+#=========
+
+#== Tooltips ==
+tooltip.adult=成年
+tooltip.birthdate=出生日期
+tooltip.daystoadult=直到成年
+tooltip.empty=(空)
+tooltip.familiarisedlast=最后的喂食
+tooltip.familiarisedtoday=今天的喂食
+tooltip.familiarity=亲近
+tooltip.gender=性别
+tooltip.harvest=收获日期
+tooltip.hasfruit=水果
+tooltip.hours=小时
+tooltip.hp=生命
+tooltip.inlove=可以交配
+tooltip.milkedtoday=牛奶
+tooltip.none=无
+tooltip.pregnancyremaining=怀孕剩余
+tooltip.pregnant=怀孕
+tooltip.remaining=剩余
+tooltip.stacklevels=有效堆叠等级
+tooltip.stackvalid=有效
+tooltip.tamed=驯服
+tooltip.tuckerbag=动物袋
+tooltip.tuckerbagversion=版本
+tooltip.tuckerbagdamageamount=消耗次数
+tooltip.ticks=记号
+tooltip.unknown=位置
+tooltip.wasroped=被捆住
+
+#== TFC Items ==
+tooltip.FruitTree.Green Apple=青苹果树
+tooltip.FruitTree.Red Apple=红苹果树
+tooltip.FruitTree.Banana=香蕉树
+tooltip.FruitTree.Cherry=樱桃树
+tooltip.FruitTree.Lemon=柠檬树
+tooltip.FruitTree.Olive=橄榄树
+tooltip.FruitTree.Orange=橙子树
+tooltip.FruitTree.Peach=桃树
+tooltip.FruitTree.Plum=李子树
+
+tooltip.FruitLeaves.Green Apple=青苹果树叶
+tooltip.FruitLeaves.Red Apple=红苹果树叶
+tooltip.FruitLeaves.Banana=香蕉树叶
+tooltip.FruitLeaves.Cherry=樱桃树叶
+tooltip.FruitLeaves.Lemon=柠檬树叶
+tooltip.FruitLeaves.Olive=橄榄树叶
+tooltip.FruitLeaves.Orange=橙子树叶
+tooltip.FruitLeaves.Peach=桃树叶
+tooltip.FruitLeaves.Plum=李子树叶
+
+tooltip.FruitTree.青苹果=青苹果树
+tooltip.FruitTree.红苹果=红苹果树
+tooltip.FruitTree.香蕉=香蕉树
+tooltip.FruitTree.樱桃=樱桃树
+tooltip.FruitTree.柠檬=柠檬树
+tooltip.FruitTree.橄榄=橄榄树
+tooltip.FruitTree.橙子=橙子树
+tooltip.FruitTree.桃子=桃树
+tooltip.FruitTree.李子=李子树
+
+tooltip.FruitLeaves.青苹果=青苹果树叶
+tooltip.FruitLeaves.红苹果=红苹果树叶
+tooltip.FruitLeaves.香蕉=香蕉树叶
+tooltip.FruitLeaves.樱桃=樱桃树叶
+tooltip.FruitLeaves.柠檬=柠檬树叶
+tooltip.FruitLeaves.橄榄=橄榄树叶
+tooltip.FruitLeaves.橙子=橙子树叶
+tooltip.FruitLeaves.桃子=桃树叶
+tooltip.FruitLeaves.李子=李子树叶
+
+#== Options - Blocks ==
+option.udary.terrafirmacraft.anvil.storage=砧-储存?
+option.udary.terrafirmacraft.anvil.tier=砧-等级?
+option.udary.terrafirmacraft.barrel.progress=桶-增加?
+option.udary.terrafirmacraft.berrybush.harvest=灌木-结果日期?
+option.udary.terrafirmacraft.berrybush.hasfruit=灌木-水果?
+option.udary.terrafirmacraft.blastfurnace.storage=高炉-储存?
+option.udary.terrafirmacraft.blastfurnace.validlevels=高炉-等级?
+option.udary.terrafirmacraft.clay.stone=粘土-岩层?
+option.udary.terrafirmacraft.crucible.showmetal=坩埚-金属?
+option.udary.terrafirmacraft.dirt.stone=泥土-岩层?
+option.udary.terrafirmacraft.farmland.nutrients=耕地-营养等级?
+option.udary.terrafirmacraft.farmland.stone=耕地-岩层?
+option.udary.terrafirmacraft.firepit.fuel=篝火-燃料?
+option.udary.terrafirmacraft.firepit.storage=篝火-储存?
+option.udary.terrafirmacraft.foodprep.storage=厨台-储存?
+option.udary.terrafirmacraft.forge.fuel=锻造炉-燃料?
+option.udary.terrafirmacraft.forge.stackstate=锻造炉-模具?
+option.udary.terrafirmacraft.forge.storage=锻造炉-储存?
+option.udary.terrafirmacraft.fruitleaves.harvest=果树叶-结果日期?
+option.udary.terrafirmacraft.fruitleaves.hasfruit=果树叶-水果?
+option.udary.terrafirmacraft.fruitwood.harvest=果树-结果日期?
+option.udary.terrafirmacraft.grass.stone=草地-岩层?
+option.udary.terrafirmacraft.gravel.stone=沙砾-岩层?
+option.udary.terrafirmacraft.grill.storage=烤架-储存?
+option.udary.terrafirmacraft.hopper.storage=漏斗-储存?
+option.udary.terrafirmacraft.ingotpile.count=锭-总数?
+option.udary.terrafirmacraft.logpile.count=原木垛-总数?
+option.udary.terrafirmacraft.logpile.storage=原木垛-储存?
+option.udary.terrafirmacraft.pottery.pitkiln=陶瓷窑-燃料?
+option.udary.terrafirmacraft.pottery.progress=陶瓷窑-增加?
+option.udary.terrafirmacraft.pottery.storage=陶瓷窑-储存?
+option.udary.terrafirmacraft.quern.storage=磨盘-储存?
+option.udary.terrafirmacraft.sand.stone=沙子-岩层?
+option.udary.terrafirmacraft.sapling.remaining=树苗-剩余时间?
+option.udary.terrafirmacraft.smokerack.storage=烟熏架-储存?
+option.udary.terrafirmacraft.toolrack.storage=工具架-储存?
+option.udary.terrafirmacraft.torch.remaining=火把-剩余时间?
+option.udary.terrafirmacraft.worlditem.storage=碎片细节?
+
+option.udary.terrafirmacraft.alloycalculator.storage=Alloy Calc -储存?
+option.udary.terrafirmacraft.anodisingvessel.process=Anodiser -过程?
+option.udary.terrafirmacraft.anodisingvessel.storage=Anodiser -储存?
+option.udary.terrafirmacraft.dryingmat.process=Drying Mat -过程?
+option.udary.terrafirmacraft.dryingmat.storage=Drying Mat -储存?
+option.udary.terrafirmacraft.evaporatorpan.process=Evap. Pan -过程?
+option.udary.terrafirmacraft.evaporatorpan.storage=Evap. Pan -储存?
+option.udary.terrafirmacraft.orecooker.process=Ore Cooker -过程?
+option.udary.terrafirmacraft.orecooker.storage=Ore Cooker -储存?
+
+#== Options - Entities ==
+option.udary.terrafirmacraft.animal.adult=动物-成年?
+option.udary.terrafirmacraft.animal.birthdate=动物-出生日期?
+option.udary.terrafirmacraft.animal.familiarity=动物-今日喂食?
+option.udary.terrafirmacraft.animal.gender=动物-性别?
+option.udary.terrafirmacraft.animal.hp=动物-生命?
+option.udary.terrafirmacraft.animal.inlove=动物-可交配?
+option.udary.terrafirmacraft.animal.milked=动物-牛奶?
+option.udary.terrafirmacraft.animal.misc=动物-杂项?
+option.udary.terrafirmacraft.animal.pregnant=动物-怀孕?
+option.udary.terrafirmacraft.animal.tuckerbaginfo=动物-动物袋?
+option.udary.terrafirmacraft.stand.armor=盔甲架-盔甲?
